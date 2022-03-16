@@ -1,0 +1,23 @@
+1- Manter estoque (select, update, delete, insert)
+2- manter pedido
+3- após a realização do pedido, subtrair estoque
+3- Autenticação
+4- gerar relatório do estoque
+	quantidade
+ 	nome
+	data de vencimento
+	preço
+	data de emissão do relatório
+	Nome do emissor
+	local do produto
+5- menu
+6- manter cliente
+
+
+
+
+1- Segurança do estoque
+	O estoque não podera ser acessado por qualquer funcionario 
+2- Usuabilidade do Sistema
+	O Sistema devera ser facil de utilizar 
+3- 
